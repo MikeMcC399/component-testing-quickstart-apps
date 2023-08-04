@@ -41,11 +41,6 @@ testem.log
 .DS_Store
 Thumbs.db
 
-# Cypress temp files
-cypress/downloads
-cypress/screenshots
-cypress/videos
-
 # yarn without zero-installs
 .pnp.*
 .yarn/*
