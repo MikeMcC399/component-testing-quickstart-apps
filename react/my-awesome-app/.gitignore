@@ -23,11 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-# Cypress temp files
-cypress/downloads
-cypress/screenshots
-cypress/videos
-
 # yarn without zero-installs
 .pnp.*
 .yarn/*
