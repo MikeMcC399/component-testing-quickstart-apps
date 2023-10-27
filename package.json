@@ -1,0 +1,26 @@
+{
+  "name": "component-testing-quickstart-apps",
+  "version": "1.0.0",
+  "description": "Apps from the Cypress Component Testing quickstart guides",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update:cypress": "./scripts/update-cypress-latest.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cypress-io/component-testing-quickstart-apps.git"
+  },
+  "keywords": [
+    "cypress",
+    "component",
+    "testing",
+    "examples"
+  ],
+  "author": "Cypress.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cypress-io/component-testing-quickstart-apps/issues"
+  },
+  "homepage": "https://github.com/cypress-io/component-testing-quickstart-apps#readme"
+}
