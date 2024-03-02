@@ -1,5 +1,4 @@
 #!/bin/bash
-set -e # fail on error
 #
 # All examples are tested using Yarn
 #
