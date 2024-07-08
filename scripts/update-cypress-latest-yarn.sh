@@ -20,4 +20,3 @@ yarn set version berry
 yarn add cypress -D -E
 cd ../..
 done
-cd ..
