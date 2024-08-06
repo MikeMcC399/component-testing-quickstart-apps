@@ -17,4 +17,3 @@ cd ${examples[$i]}/my-awesome-app
 yarn cypress run --component
 cd ../..
 done
-cd ..
